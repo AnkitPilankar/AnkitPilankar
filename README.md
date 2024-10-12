@@ -5,8 +5,11 @@ I'm passionate about the Data Analytics field, with a growing interest in Data S
 🚀 Skills:
 
 Power BI: Interactive dashboards and data visualization
+
 SQL: Data cleaning, extraction, and querying (Intermediate certification from HackerRank)
-Python: Data analysis, visualization, and automation
+
+Python: Data analysis, visualization
+
 Excel: Data manipulation, advanced functions, and reporting
 
 💼 Experience:
@@ -19,6 +22,7 @@ SQL (Intermediate) from HackerRank
 
 
 📫 How to Reach Me:
+
 Email: ankitpilankar2001@gmail.com
 
 LinkedIn: [Ankit Pilankar](https://www.linkedin.com/in/ankit-pilankar-83754b21b/)
